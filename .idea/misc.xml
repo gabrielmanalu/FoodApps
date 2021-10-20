@@ -5,15 +5,31 @@
       <map>
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/drawable/ic_add_img.xml" value="0.1" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/drawable/ic_back_img.xml" value="0.1712962962962963" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/drawable/ic_baseline_restaurant_24.xml" value="0.2111111111111111" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.21666666666666667" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/drawable/ic_facebook.xml" value="0.1712962962962963" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/drawable/ic_login_hero.xml" value="0.1712962962962963" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/drawable/ic_register_hero.xml" value="0.1712962962962963" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/drawable/ic_side_bg.xml" value="0.1712962962962963" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/layout/activity_auth_sign_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/layout/activity_food_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/layout/activity_order_status.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/layout/app_bar_home.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/layout/content_home.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/layout/food_item.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/layout/login_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/layout/menu_item.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/layout/nav_header_home.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/layout/order_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/menu/activity_home_drawer.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/FoodApps/app/src/main/res/menu/home.xml" value="0.2" />
       </map>
     </option>
   </component>

@@ -14,4 +14,6 @@
     <string name="using_phone">Login Using Phone Number</string>
     <string name="login_hint">Phone Number</string>
     <string name="using_mail">Login Using Email</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
 </resources>
